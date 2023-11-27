@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="message_resultado">Resultado: %1$s!</string>
+    <string name="obesidade">OBESIDADE</string>
+    <string name="_27_10">27.10</string>
+    <string name="tabela_de_imc">Tabela de IMC:</string>
+</resources>
