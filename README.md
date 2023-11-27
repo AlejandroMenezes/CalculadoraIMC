@@ -17,22 +17,21 @@ BMI Calculator was an application I developed for my first steps in Android deve
 
 ## Tecnologias / Knowledge Stack
 * Kotlin
-* Activity para host de telas
+* "Activity" para host de telas / "Activity" for screen host
 * ViewGroup
     * RelativeLayout
     * LinearLayout
-- Components de UI
+- UI Components
     - TextView
     - EditText
     - Button
-- Toast para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
+- Toast para display de mensagem / "Toast" for display message
+- Intent Explicita para abrir a segunda Activity / Explicit "Intent" to open the second "Activity"
+- FindViewById para recuperar components de UI / FindViewById to retrieve UI components
 
 
 ### TODO
-- Melhorar estilização do app
+- Melhorar estilização do app / Improve app styling
 
 ## Author
 Alejandro Menezes 
